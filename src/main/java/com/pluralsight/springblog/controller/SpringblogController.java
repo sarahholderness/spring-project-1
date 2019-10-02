@@ -8,8 +8,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class SpringblogController {
 
     @RequestMapping("/")
-    @ResponseBody
+    //@ResponseBody
     public String listPosts() {
-        return "Hello World";
+        //return "Hello World";
+        return "home";
     }
 }

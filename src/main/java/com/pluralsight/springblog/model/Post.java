@@ -1,4 +1,4 @@
-package com.pluralsight.springblog;
+package com.pluralsight.springblog.model;
 
 import java.util.Date;
 

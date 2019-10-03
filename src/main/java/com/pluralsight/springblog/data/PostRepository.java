@@ -1,8 +1,8 @@
-package com.pluralsight.springblog;
+package com.pluralsight.springblog.data;
 
+import com.pluralsight.springblog.model.Post;
 import org.springframework.stereotype.Component;
 
-import java.time.LocalDate;
 import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
